@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854216154197",
+    "project_id": "hd-video-dounloder",
+    "storage_bucket": "hd-video-dounloder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854216154197:android:33112fb85aa1e2126dc8dc",
+        "android_client_info": {
+          "package_name": "com.nooneprojects.hdvideodounloder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854216154197-7nd31duu811fnltia89krn3vbrqs9qlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsZTq21rqngc5WdXPnDijBhyCK5zFXWdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854216154197-7nd31duu811fnltia89krn3vbrqs9qlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
